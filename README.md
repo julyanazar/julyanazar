@@ -11,5 +11,5 @@ JavaScript(ES6), React, HTML, CSS, Git, Webpack, Bootstrap, PostgreSQL, npm
 
 ### Моя статистика:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julyanazar&show_icons=true&theme=radical)](https://github.com/julyanazar/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julyanazar&show_icons=true&theme=calm)](https://github.com/julyanazar/github-readme-stats)
 

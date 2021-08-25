@@ -7,7 +7,7 @@
 
 ### 🔨 Мой стек:
 
-JavaScript(ES6), React, HTML, CSS, Git, Webpack, Bootstrap, PostgreSQL, npm
+JavaScript(ES6), React, HTML, CSS, NodeJS, express, mongodb, Git, Webpack, Bootstrap, PostgreSQL, npm
 
 ### Моя статистика:
 
